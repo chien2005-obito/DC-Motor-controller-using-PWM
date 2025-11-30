@@ -1,0 +1,10 @@
+D:\Document\HK251\TKHTN\btl_project\pwm_user-interface\bin\Debug\pwm_user-interface.exe.config
+D:\Document\HK251\TKHTN\btl_project\pwm_user-interface\bin\Debug\pwm_user-interface.exe
+D:\Document\HK251\TKHTN\btl_project\pwm_user-interface\bin\Debug\pwm_user-interface.pdb
+D:\Document\HK251\TKHTN\btl_project\pwm_user-interface\obj\Debug\pwm_user-interface.csproj.AssemblyReference.cache
+D:\Document\HK251\TKHTN\btl_project\pwm_user-interface\obj\Debug\pwm_user_interface.Form1.resources
+D:\Document\HK251\TKHTN\btl_project\pwm_user-interface\obj\Debug\pwm_user_interface.Properties.Resources.resources
+D:\Document\HK251\TKHTN\btl_project\pwm_user-interface\obj\Debug\pwm_user-interface.csproj.GenerateResource.cache
+D:\Document\HK251\TKHTN\btl_project\pwm_user-interface\obj\Debug\pwm_user-interface.csproj.CoreCompileInputs.cache
+D:\Document\HK251\TKHTN\btl_project\pwm_user-interface\obj\Debug\pwm_user-interface.exe
+D:\Document\HK251\TKHTN\btl_project\pwm_user-interface\obj\Debug\pwm_user-interface.pdb
