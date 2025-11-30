@@ -104,14 +104,6 @@ int main(void)
 	HAL_UART_Receive_DMA (&huart1, data_RX ,3);
 	HAL_GPIO_WritePin(GPIOA ,GPIO_PIN_11,GPIO_PIN_RESET);
 	HAL_GPIO_WritePin(GPIOA ,GPIO_PIN_12,GPIO_PIN_SET);
-	//if (HAL_GPIO_ReadPin (GPIOA ,GPIO_PIN_3 )==0)
-	//		{
-	//			HAL_GPIO_WritePin(GPIOA ,GPIO_PIN_11,GPIO_PIN_RESET);
-	//			HAL_GPIO_WritePin(GPIOA ,GPIO_PIN_11,GPIO_PIN_SET);
-	//		}else{
-	//			HAL_GPIO_WritePin(GPIOA ,GPIO_PIN_11,GPIO_PIN_SET);
-	//			HAL_GPIO_WritePin(GPIOA ,GPIO_PIN_11,GPIO_PIN_RESET);
-	//		}
   /* USER CODE END 2 */
 
   /* Infinite loop */
