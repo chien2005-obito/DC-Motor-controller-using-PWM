@@ -1,0 +1,19 @@
+# Keil C Ignore List
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.lnp
+*.plg
+*.htm
+*.map
+*.dep
+*.bak
+*.lst
+*.axf
+*.hex
+*.sct
+*.iex
+*.uvoptx
+*.uvguix
