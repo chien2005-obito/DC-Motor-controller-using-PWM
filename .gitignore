@@ -1,0 +1,30 @@
+# --- C# / Visual Studio ---
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+
+# --- Keil C / STM32 ---
+*.o
+*.d
+*.crf
+*.dep
+*.axf
+*.htm
+*.lnp
+*.sct
+*.lst
+*.map
+*.hex
+*.bin
+
+MDK-ARM/Debug/
+MDK-ARM/Release/
+MDK-ARM/RTE/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+Drivers/STM32*_HAL_Driver/ 
+
+*.bak
+JLinkLog.txt
